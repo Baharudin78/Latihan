@@ -14,3 +14,6 @@ dependencyResolutionManagement {
 }
 rootProject.name = "Latihan"
 include (":app")
+include(":core")
+include(":core:navigation")
+include(":core:ui")
